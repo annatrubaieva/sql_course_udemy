@@ -1,0 +1,6 @@
+ALTER TABLE new_info
+DROP COLUMN people 
+
+
+ALTER TABLE new_info
+DROP COLUMN IF EXISTS people
